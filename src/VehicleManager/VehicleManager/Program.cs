@@ -6,7 +6,8 @@ namespace VehicleManager
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var whoToGreet = "Lawrenceville";
+            Console.WriteLine($"Hello !{whoToGreet}");
         }
     }
 }
